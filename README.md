@@ -725,4 +725,4 @@ To gather all data in a single CSV file, we needed to made a fourth script. But,
 
 ## 5. Disclaimer
 
-There are probably several ways to do the same process proposed above, faster and even more efficiently. Even so, we believe that sharing the work done, can serve as a starting point for those who want to do something similar.
+There are probably several ways to do the same process proposed above, faster and even more efficiently. Even so, we believe that sharing the work done can serve as a starting point for those who want to do something similar.
