@@ -719,7 +719,7 @@ ___
 ___
 ## 4. Gathering data
 
-To gather all data in a single CSV file, we needed to made a fourth script. But, different from the other, in this case we needed to explore the data to fill all the gaps. To a better undestand of the process you can access the Jupyter Notebook available in the link below.
+To gather all data in a single CSV file, we needed to made a fourth script. But, unlike the others, in this case we had to explore the data to fill all the gaps. To a better undestand of the process, you can access the Jupyter Notebook available in the link below.
 
 https://github.com/crizmorais/paper_euroleague_players/blob/main/merge_bases.ipynb
 
