@@ -12,7 +12,7 @@ For each competition (Adidas Next Generation, Euroleague and Eurocup), data from
 
 ## 1. Adidas Next Generation
 
-All data came from: (https://www.adidasngt.com/). 
+All data came from: [Adida Next Gen Competition](https://www.adidasngt.com/). 
 
 1.1. [Index](https://github.com/crizmorais/paper_euroleague_players/blob/main/index_u18.ipynb)
 
@@ -22,7 +22,7 @@ All data came from: (https://www.adidasngt.com/).
 
 ## 2. Euroleague
 
-All data came from: (https://www.euroleague.net/).
+All data came from: [Euroleague website](https://www.euroleague.net/).
 
 2.1. [Index](https://github.com/crizmorais/paper_euroleague_players/blob/main/index_euroleague.ipynb)
 
@@ -32,7 +32,7 @@ All data came from: (https://www.euroleague.net/).
 
 ## 3. Eurocup
 
-All data came from: (https://www.eurocupbasketball.com/)
+All data came from: [Eurocup website](https://www.eurocupbasketball.com/)
 
 3.1. [Index](https://github.com/crizmorais/paper_euroleague_players/blob/main/index_eurocup.ipynb)
 
