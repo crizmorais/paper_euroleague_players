@@ -32,7 +32,7 @@ All data came from: [Euroleague website](https://www.euroleague.net/).
 
 ## 3. Eurocup
 
-All data came from: [Eurocup website](https://www.eurocupbasketball.com/)
+All data came from: [Eurocup website](https://www.eurocupbasketball.com/).
 
 3.1. [Index](https://github.com/crizmorais/paper_euroleague_players/blob/main/index_eurocup.ipynb)
 
